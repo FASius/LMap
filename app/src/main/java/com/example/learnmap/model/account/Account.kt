@@ -1,4 +1,4 @@
-package com.example.learnmap.account
+package com.example.learnmap.model.account
 
 import com.example.learnmap.model.EmptyFieldException
 import com.example.learnmap.model.Field

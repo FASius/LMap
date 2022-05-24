@@ -1,4 +1,4 @@
-package com.example.learnmap.account
+package com.example.learnmap.model.account
 
 typealias AccountListener = (account: Account?) -> Unit
 /**

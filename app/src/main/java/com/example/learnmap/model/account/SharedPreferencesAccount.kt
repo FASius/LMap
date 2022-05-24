@@ -1,4 +1,4 @@
-package com.example.learnmap.account
+package com.example.learnmap.model.account
 
 import android.content.Context
 

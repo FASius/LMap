@@ -1,4 +1,4 @@
-package com.example.learnmap.account
+package com.example.learnmap.model.account
 
 import android.database.sqlite.SQLiteConstraintException
 import android.database.sqlite.SQLiteDatabase
